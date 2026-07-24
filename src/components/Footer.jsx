@@ -9,6 +9,7 @@ export default function Footer() {
         </div>
         <div className="footer-links">
           <Link to="/privacy-policy">Privacy Policy</Link>
+          <Link to="/delete-account">Delete Account</Link>
           <a href="mailto:agrafuturedesks@gmail.com">Contact</a>
         </div>
         <div className="footer-copy">&copy; 2026 Hirenix. All rights reserved.</div>
