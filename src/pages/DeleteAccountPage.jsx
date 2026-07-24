@@ -37,10 +37,10 @@ export default function DeleteAccountPage() {
             <p>This action is permanent and cannot be undone. Once deleted, this data cannot be recovered.</p>
 
             <h2>3. Can't Access the App?</h2>
-            <p>If you're unable to sign in — for example, you forgot your password or uninstalled the app — email us at <a href="mailto:agrafuturedesks@gmail.com">agrafuturedesks@gmail.com</a> from the email address associated with your account, and we'll delete your account and data manually.</p>
+            <p>If you're unable to sign in — for example, you forgot your password or uninstalled the app — email us at <a href="mailto:pk0471721@gmail.com">pk0471721@gmail.com</a> from the email address associated with your account, and we'll delete your account and data manually.</p>
 
             <h2>4. Questions</h2>
-            <p>For anything else about your data, see our <Link to="/privacy-policy">Privacy Policy</Link>, or contact us at <a href="mailto:agrafuturedesks@gmail.com">agrafuturedesks@gmail.com</a>.</p>
+            <p>For anything else about your data, see our <Link to="/privacy-policy">Privacy Policy</Link>, or contact us at <a href="mailto:pk0471721@gmail.com">pk0471721@gmail.com</a>.</p>
           </div>
         </div>
       </main>

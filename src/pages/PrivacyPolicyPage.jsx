@@ -67,7 +67,7 @@ export default function PrivacyPolicyPage() {
             <p>We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated "Last updated" date. Continued use of the App after changes are posted constitutes acceptance of the revised policy.</p>
 
             <h2>9. Contact Us</h2>
-            <p>If you have questions about this Privacy Policy or wish to exercise your data rights, contact us at <a href="mailto:agrafuturedesks@gmail.com">agrafuturedesks@gmail.com</a>.</p>
+            <p>If you have questions about this Privacy Policy or wish to exercise your data rights, contact us at <a href="mailto:pk0471721@gmail.com">pk0471721@gmail.com</a>.</p>
           </div>
         </div>
       </main>
